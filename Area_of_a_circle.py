@@ -1,4 +1,3 @@
 r=int(input())
-pi=3.14
-a=pi*r*r
+a=float(3.14*r*r)
 print("%.2f"%a)
